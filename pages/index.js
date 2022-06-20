@@ -10,7 +10,7 @@ export default function Home() {
         <meta name='description' content='Top selling Fast food shop' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <img src='../public/images/Pizza .jpg' alt='Pizza with Onions' />
+      <h1>homepage</h1>
     </div>
   );
 }
